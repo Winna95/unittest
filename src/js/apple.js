@@ -3,5 +3,5 @@ export default {
     texture: "juicy",
     animalProduct: false,
     rating: 4.5
-    
+
 }
